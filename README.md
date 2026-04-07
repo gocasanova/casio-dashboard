@@ -2,9 +2,7 @@
 
 A retro LCD-style personal dashboard designed for old iPads (iPad 2, iOS 9+) — or any browser. Displays the time, weather, and your Google Calendar events for the next 7 days, with a Casio F-91W aesthetic.
 
-**[Live demo →](https://dashboard-ipad.vercel.app)**
-
-![Casio Dashboard](https://dashboard-ipad.vercel.app/preview.png)
+![Casio Dashboard](https://raw.githubusercontent.com/emipanelliok/casio-dashboard/main/preview.png)
 
 ---
 
